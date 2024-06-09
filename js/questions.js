@@ -2,61 +2,97 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
+    question: "What is the name of the safety sign?",
     immg:"img1",
-    answer: "Hyper Text Markup Language",
+    answer: "Information Sign",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Warn Sign",
+      "Mandatory Sign",
+      "Prohibition Sign",
+      "Mandatory Sign"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "What is smothering in extinguishing of fire?",
+    answer: "Isolating the fire from the supply of oxygen ",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Adding the fuel element to the fire",
+      "Removing the fuel element from the fire",
+      "Using of water to lower the temperature", 
+      "Isolating the fire from the supply of oxygen"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    immg:"Yes",
-    answer: "Hypertext Preprocessor",
+    question: "What is the physical hazard?",
+    
+    answer: "Vibration",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "Smoking",
+      "Vibration",
+      "Corrosive",
+      "Radio Active"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "Which is the correct sequence of operation to be performed when using the fire extinguisher?",
+    answer: "Pull, Aim, Squeeze,Sweep",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "Pull, Aim, Squeeze,Sweep",
+      "Pull, Aim, Sweep,Squeeze",
+      "Push, Arrange,Squeeze, Sweep ",
+      "Push, Arrange,Sweep, Sequence"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "Which step of the 5s-concept refers 'Standardization' ?",
+    answer: "Step-4",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Step-1",
+      "Step-2",
+      "Step-3",
+      "Step-4"
     ]
   },
+  {
+    numb: 6,
+    question: "Which plier is used for making wire hooks and loops?",
+    answer: "Round nose plier",
+    options: [
+      "Flat nose plier",
+      "Long nose plier",
+      "Round nose plier",
+      "Diagonal cutting plier"
+    ]
+  },
+  {
+    numb: 7,
+    question: "What is the use of pincer? ",
+    answer: "Extracting the pin nails from the wood",
+    options: [
+      "Twisting the flexible wires ",
+      "Cutting small diameter of wires",
+      "Extracting the pin nails from the wood",
+      "Holding small objects, where fing"
+    ]
+  },
+  {
+    numb: 8,
+    question: "  What is the name of road safety sign? ",
+    immg:"img8",
+    answer: "Mandatory sign ",
+    options: [
+      "Mandatory sign",
+      "Cautionary sign",
+      "Informatory sign ",
+      "Prohibition sign"
+    ]
+  },
+  
+
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
