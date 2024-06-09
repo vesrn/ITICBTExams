@@ -119,15 +119,24 @@ function showQuetions(index){
     if (questions[index].immg=="img1")
         {
             var x = document.createElement("IMG");
-    x.setAttribute("src", "G:\\My Drive\\images\\Ven.jpg");
-    x.setAttribute("width", "304");
-    x.setAttribute("height", "228");
+    x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//1.png");
+    //x.setAttribute("width", "304");
+   // x.setAttribute("height", "228");
     x.setAttribute("alt", "Image Can not Display");
     //document.getElementById("Ques").appendChild(x);
     document.getElementById("Ques").appendChild(x);
         }
 
-   
+        if (questions[index].immg=="img8")
+            {
+                var x = document.createElement("IMG");
+        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//8.png");
+        //x.setAttribute("width", "304");
+       // x.setAttribute("height", "228");
+        x.setAttribute("alt", "Image Can not Display");
+        //document.getElementById("Ques").appendChild(x);
+        document.getElementById("Ques").appendChild(x);
+            }
 }
 // creating the new div tags which for icons
 let tickIconTag = '<div class="icon tick"><i class="fas fa-check"></i></div>';
