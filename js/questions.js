@@ -83,7 +83,7 @@ let questions = [
     numb: 8,
     question: "  What is the name of road safety sign? ",
     immg:"img8",
-    answer: "Mandatory sign ",
+    answer: "Mandatory sign",
     options: [
       "Mandatory sign",
       "Cautionary sign",
