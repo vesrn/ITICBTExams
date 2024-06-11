@@ -15,7 +15,7 @@ let questions = [
     {
     numb: 2,
     question: "What is smothering in extinguishing of fire?",
-    answer: "Isolating the fire from the supply of oxygen ",
+    answer: "Isolating the fire from the supply of oxygen",
     options: [
       "Adding the fuel element to the fire",
       "Removing the fuel element from the fire",
