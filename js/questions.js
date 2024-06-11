@@ -91,54 +91,7 @@ let questions = [
       "Prohibition sign"
     ]
   },
-  {
-    numb: 9,
-    question: " What is the back ground colour of warning signs in the basic category?  ",
-  
-    answer: "Yellow",
-    options: [
-      "Blue",
-      "White",
-      "Yellow",
-      "Green"
-    ]
-  },
-  {
-    numb: 10,
-    question: "Which type of fire extinguisher is used for fire on electrical equipment?  ",
-  
-    answer: "Halon Type",
-    options: [
-      "Halon Type",
-      "Foam Type,
-      "Gas catridge type",
-      "Stored Pressure type"
-    ]
-  },
- {
-    numb: 11,
-    question: "Which is the waste disposal method that produces heat?",
-  
-    answer: "Incineration",
-    options: [
-      "Recycling",
-      "Compositing",
-      "Incineration",
-      "Waste compaction"
-    ]
-  },
-    {
-    numb: 12,
-    question: "Which Personal Protective Equipment (PPE) is used for the protection from fumes?",
-  
-    answer: "Nose Mask",
-    options: [
-      "Apron",
-      "Goggles",
-      "Ear Mask",
-      "Nose Mask"
-    ]
-  }
+
     
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
