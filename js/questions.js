@@ -9,7 +9,7 @@ let questions = [
       "Warn Sign",
       "Mandatory Sign",
       "Information Sign",
-      "Mandatory Sign"
+      "Danger Sign"
     ]
   },
     {
