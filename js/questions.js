@@ -8,7 +8,7 @@ let questions = [
     options: [
       "Warn Sign",
       "Mandatory Sign",
-      "Prohibition Sign",
+      "Information Sign",
       "Mandatory Sign"
     ]
   },
