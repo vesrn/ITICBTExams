@@ -136,7 +136,7 @@ let questions = [
       "Apron",
       "Goggles",
       "Ear mask ",
-      "Nose mask "
+      "Nose mask"
     ]
   },
  {
@@ -284,7 +284,18 @@ let questions = [
      "Applying pressure over the injured portion"
     ]
   },
-         
+  {
+    numb: 25,
+    question: " What immediate action should be taken to rescue the victim, if he is still in contact with the electrical power supply?",
+    
+    answer: "Break the contact by switching OFF the power supply",
+    options: [
+      "Pull or push him from the contact by hand",
+      "Inform your authority about this electric shock",
+      "Call someone for helping to remove him from contact",
+     "Break the contact by switching OFF the power supply"
+    ]
+  },        
                {
     numb: 26,
     question: "What is the name of the cautionary sign?  ",
@@ -301,7 +312,7 @@ let questions = [
     numb: 27,
     question: " Which is the golden hour for the victim injured on head with risk of dying?",
     
-    answer: "First 30 minutes ",
+    answer: "First 30 minutes",
     options: [
       "First 15 minutes",
       "First 30 minutes",
@@ -313,7 +324,7 @@ let questions = [
     numb: 28,
     question: "Which condition of the victim is referred as COMA stage? ",
     
-    answer: "Lie totally senseless and do not respond to calls ",
+    answer: "Lie totally senseless and do not respond to calls",
     options: [
       "Unconscious but can respond to calls",
       "Conscious but cannot respond to calls ",
