@@ -201,8 +201,7 @@ let questions = [
   },
      {
     numb: 18,
-    question: " Which artificial respiration method is to be performed to the victim with injuries on the 
-chest and belly? ",
+    question: " Which artificial respiration method is to be performed to the victim with injuries on the chest and belly? ",
     
     answer:"Nelson’s arm-lift back pressure method",
     options: [
@@ -214,8 +213,7 @@ chest and belly? ",
   },
        {
     numb: 19,
-    question: "Which type of occupational health hazard is 
-cause for infection? ",
+    question: "Which type of occupational health hazard is cause for infection? ",
     
     answer:"Biological hazard",
     options: [
