@@ -137,6 +137,56 @@ function showQuetions(index){
         //document.getElementById("Ques").appendChild(x);
         document.getElementById("Ques").appendChild(x);
             }
+     if (questions[index].immg=="img16")
+            {
+                var x = document.createElement("IMG");
+        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//16.png");
+        //x.setAttribute("width", "304");
+       // x.setAttribute("height", "228");
+        x.setAttribute("alt", "Image Can not Display");
+        //document.getElementById("Ques").appendChild(x);
+        document.getElementById("Ques").appendChild(x);
+            }
+     if (questions[index].immg=="img20")
+            {
+                var x = document.createElement("IMG");
+        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//20.png");
+        //x.setAttribute("width", "304");
+       // x.setAttribute("height", "228");
+        x.setAttribute("alt", "Image Can not Display");
+        //document.getElementById("Ques").appendChild(x);
+        document.getElementById("Ques").appendChild(x);
+            }
+     if (questions[index].immg=="img22")
+            {
+                var x = document.createElement("IMG");
+        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//22.png");
+        //x.setAttribute("width", "304");
+       // x.setAttribute("height", "228");
+        x.setAttribute("alt", "Image Can not Display");
+        //document.getElementById("Ques").appendChild(x);
+        document.getElementById("Ques").appendChild(x);
+            }
+     if (questions[index].immg=="img23")
+            {
+                var x = document.createElement("IMG");
+        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//23.png");
+        //x.setAttribute("width", "304");
+       // x.setAttribute("height", "228");
+        x.setAttribute("alt", "Image Can not Display");
+        //document.getElementById("Ques").appendChild(x);
+        document.getElementById("Ques").appendChild(x);
+            }
+     if (questions[index].immg=="img26")
+            {
+                var x = document.createElement("IMG");
+        x.setAttribute("src", "https://vesrn.github.io//ITICBTExams//Electrician//SemI//ModuleI//26.png");
+        //x.setAttribute("width", "304");
+       // x.setAttribute("height", "228");
+        x.setAttribute("alt", "Image Can not Display");
+        //document.getElementById("Ques").appendChild(x);
+        document.getElementById("Ques").appendChild(x);
+            }
 }
 // creating the new div tags which for icons
 let tickIconTag = '<div class="icon tick"><i class="fas fa-check"></i></div>';
