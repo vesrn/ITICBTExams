@@ -331,7 +331,33 @@ let questions = [
       "Breathing but cannot respond to calls",
      "Lie totally senseless and do not respond to calls"
     ]
+  },
+
+      {
+    numb: 29,
+    question: "What is the cause for twisting defect in timber? ",
+    
+    answer: "Uneven shrinkage",
+    options: [
+      "Defective Storage",
+      "Uneven shrinkage",
+      "Improper seasoning",
+     "Irregularity in growth of branches"
+    ]
+  },
+      {
+    numb: 30,
+    question: "Which type of cold chisel is used for squaring materials at the corners?",
+    
+    answer: "Diamond point chisel",
+    options: [
+      "Web chisel",
+      "Cross cut chisel",
+      "Half round chisel",
+     "Diamond point chisel"
+    ]
   }
+    
     
     
   // you can uncomment the below codes and make duplicate as more as you want to add question
