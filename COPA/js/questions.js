@@ -2,97 +2,119 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the name of the safety sign?",
-    immg:"img1",
-    answer: "Information Sign",
+    question: "What is the sequence, in which computer operates?",
+   
+    answer: "Input, Process, Output",
     options: [
-      "Warn Sign",
-      "Mandatory Sign",
-      "Prohibition Sign",
-      "Mandatory Sign"
+      "Input, Output, Process",
+      "Input, Process, Output",
+      "Process, Input, Output",
+      "Output, Process, Input"
     ]
   },
     {
     numb: 2,
-    question: "What is smothering in extinguishing of fire?",
-    answer: "Isolating the fire from the supply of oxygen ",
+    question: "How does the parallel port transfer a byte?",
+    answer: "8 bits at a time",
     options: [
-      "Adding the fuel element to the fire",
-      "Removing the fuel element from the fire",
-      "Using of water to lower the temperature", 
-      "Isolating the fire from the supply of oxygen"
+      "Bit by bit",
+      "2 bits at a time",
+      "4 bits at a time", 
+      "8 bits at a time"
     ]
   },
     {
     numb: 3,
-    question: "What is the physical hazard?",
+    question: "What is an internal power supply units of CPU?",
     
-    answer: "Vibration",
+    answer: "SMPS",
     options: [
-      "Smoking",
-      "Vibration",
-      "Corrosive",
-      "Radio Active"
+      "CVT",
+      "UPS",
+      "SMPS",
+      "Stabilizer"
     ]
   },
     {
     numb: 4,
-    question: "Which is the correct sequence of operation to be performed when using the fire extinguisher?",
-    answer: "Pull, Aim, Squeeze,Sweep",
+    question: "What is the purpose of expansion slot in mother  board?",
+    answer: "To insert the additional peripherals",
     options: [
-      "Pull, Aim, Squeeze,Sweep",
-      "Pull, Aim, Sweep,Squeeze",
-      "Push, Arrange,Squeeze, Sweep ",
-      "Push, Arrange,Sweep, Sequence"
+      "To Insert the RAM",
+      "To insert the mouse",
+      "To insert the keyboard ",
+      "To insert the additional peripherals"
     ]
   },
     {
     numb: 5,
-    question: "Which step of the 5s-concept refers 'Standardization' ?",
-    answer: "Step-4",
+    question: "Which factor influences the severity of electrical shock?",
+    answer: "Duration of current passing",
     options: [
-      "Step-1",
-      "Step-2",
-      "Step-3",
-      "Step-4"
+      "Very low DC voltage",
+      "Duration of current passing",
+      "Level of current in micro ampere",
+      "Person receives the shock"
     ]
   },
   {
     numb: 6,
-    question: "Which plier is used for making wire hooks and loops?",
-    answer: "Round nose plier",
+    question: "What is the full form of ABC in first aid?",
+    answer: "Airway, Breathing, Circulation",
     options: [
-      "Flat nose plier",
-      "Long nose plier",
-      "Round nose plier",
-      "Diagonal cutting plier"
+      "Anyway, Breathing, Circulation ",
+      "Airway, Breathing, Circulation",
+      "Anyway, Blood, Circulation",
+      "Airway, Blood, Chest "
     ]
   },
   {
     numb: 7,
-    question: "What is the use of pincer? ",
-    answer: "Extracting the pin nails from the wood",
+    question: "What is the full form of ALU? ",
+    answer: "Arithmetic Logic Unit",
     options: [
-      "Twisting the flexible wires ",
-      "Cutting small diameter of wires",
-      "Extracting the pin nails from the wood",
-      "Holding small objects, where fing"
+      "Allowed Logic Unit ",
+      "AScii Logic Unit",
+      "Arithmetic Logic Unit",
+      "Arithmetic Least Unit"
     ]
   },
   {
     numb: 8,
-    question: "  What is the name of road safety sign? ",
-    immg:"img8",
-    answer: "Mandatory sign ",
+    question: "What is current? ",
+
+    answer: "Flow of Electrons",
     options: [
-      "Mandatory sign",
-      "Cautionary sign",
-      "Informatory sign ",
-      "Prohibition sign"
+      "Flow of Neutrons",
+      "Flow of Electrons",
+      "Flow of Protons",
+      "Flow of Resistance"
     ]
   },
-  
+  {
+    numb: 9,
+    question: "Which one is arm lift back pressure method?  ",
 
+    answer: "Nelsons method",
+    options: [
+      "Mouth to mouth method",
+      "Mouth to nose method",
+      "Nelsons method",
+      "Schafers method"
+    ]
+  },
+ {
+    numb: 10,
+    question: "Desktop and personal computer is also called as__________ ",
+
+    answer: "Micro Computer",
+    options: [
+      "Super Computer",
+      "Quantum Computer",
+      "Mainframe Computer",
+      "Micro Computer"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
