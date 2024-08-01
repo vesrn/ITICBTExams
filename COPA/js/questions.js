@@ -115,6 +115,189 @@ let questions = [
       "Micro Computer"
     ]
   },
+     {
+    numb: 11,
+    question: "What is the full form of SSD?",
+
+    answer: "Solid State Drive",
+    options: [
+      "Signal State Drive",
+      "Solid State Drive",
+      "Single Signal Drive",
+      "Solid Signal Drive"
+    ]
+  },
+     {
+    numb: 12,
+    question: "Which one is an example for OS?",
+
+    answer: "Windows",
+    options: [
+      "Antivirus",
+      "Windows",
+      "MS Office",
+      "Macromedia"
+    ]
+  },
+     {
+    numb: 13,
+    question: "Which control panel applet gives the information of computer?",
+
+    answer: "System and Security",
+    options: [
+      "System and Security",
+      "Hardware and sound",
+      "Programs",
+      "Appearance and personalization"
+    ]
+  },
+     {
+    numb: 14,
+    question: "Which shortcut key is used to copy and paste a file folder? ",
+
+    answer: "Ctrl+ C and Ctrl+ V",
+    options: [
+      "Ctrl+X and Ctrl+ V",
+      "Ctrl + A and Ctrl + V",
+      "Ctrl + Z and Ctrl + V",
+      "Ctrl+ C and Ctrl+ V"
+    ]
+  },
+     {
+    numb: 15,
+    question: "Which is the order of files and directories in Window Explore? ",
+
+    answer: "Hierarchically",
+    options: [
+      "Serially",
+      "Sequentially",
+      "Hierarchically",
+      "Alphabetically"
+    ]
+  },
+
+     {
+    numb: 16,
+    question: "Where does the pinned applications stayed in Windows OS? ",
+
+    answer: "Taskbar",
+    options: [
+      "Desktop",
+      "Notification Area",
+      "Start Button",
+      "Taskbar"
+    ]
+  },
+     {
+    numb: 17,
+    question: "What is the extension of notepad file? ",
+
+    answer: ".txt",
+    options: [
+      ".fil",
+      ".dll",
+      ".doc",
+      ".txt"
+    ]
+  },
+     {
+    numb: 18,
+    question: "Name the tool in control panel which is used to adjust your computer setting with voice command? ",
+
+    answer: "Ease of access",
+    options: [
+      "Ease of access",
+      "System and Security",
+      "Appearance and personalization",
+      "Hardware and sound"
+    ]
+  },
+     {
+    numb: 19,
+    question: "Name the shortcut key used to open start menu? ",
+
+    answer: "Windows Logo",
+    options: [
+      "Windows Logo",
+      "Ctrl",
+      "Shift",
+      "Alt"
+    ]
+  },
+     {
+    numb: 20,
+    question: "Which type of device is a printer? ",
+
+    answer: "Output Device",
+    options: [
+      "Input device",
+      "Output Device",
+      "Processing Device",
+      "Calcuating Device"
+    ]
+  },
+     {
+    numb: 21,
+    question: "What is the function of operating system? ",
+
+    answer: "Process and memory management",
+    options: [
+      "Word processing",
+      "Calculation",
+      "Process and memory management",
+      "Drawing Pictures"
+    ]
+  },
+     {
+    numb: 22,
+    question: "Name the ICON in which deleted files and folder are found",
+
+    answer: "Recycle Bin",
+    options: [
+      "My Computer",
+      "Recycle Bin",
+      "Microsoft Edge",
+      "Google Chrome"
+    ]
+  },
+     {
+    numb: 23,
+    question: "Name the tool in control panel which we can change the system date?",
+
+    answer: "Date and Time",
+    options: [
+      "User Account",
+      "System",
+      "Date and Time",
+      "Fonts"
+    ]
+
+         
+  },
+     {
+    numb: 24,
+    question: "Name the shortcut key used for refresh windows desktop ",
+
+    answer: "F5",
+    options: [
+      "F1",
+      "F3",
+      "F5",
+      "F7"
+    ]
+  },
+     {
+    numb: 25,
+    question: "Which type of device is a scanner? ",
+
+    answer: "Input device",
+    options: [
+      "Processing Device",
+      "Internal Device",
+      "Output Device",
+      "Input device"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
