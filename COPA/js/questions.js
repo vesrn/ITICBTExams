@@ -300,7 +300,7 @@ let questions = [
   },
      {
     numb: 26,
-    question: "Which type of copy is producted by printer? ",
+    question: "Which type of copy is produced by printer? ",
 
     answer: "Hard Copy",
     options: [
