@@ -298,6 +298,258 @@ let questions = [
       "Input device"
     ]
   },
+     {
+    numb: 26,
+    question: "Which type of copy is producted by printer? ",
+
+    answer: "Hard Copy",
+    options: [
+      "Hard Copy",
+      "Soft Copy",
+      "Scan Copy",
+      "Xerox Copy"
+    ]
+  },
+     {
+    numb: 27,
+    question: "What is the standard file extension of scan image?",
+
+    answer: ".jpg",
+    options: [
+      ".exe",
+      ".doc",
+      ".bak",
+      ".jpg"
+    ]
+  },
+     {
+    numb: 28,
+    question: "What is the capacity of typical DVD?",
+
+    answer: "4.7GB",
+    options: [
+      "40MB",
+      "50MB",
+      "60MB",
+      "4.7GB"
+    ]
+  },
+     {
+    numb: 29,
+    question: "What is BIOS?",
+
+    answer: "Firmware",
+    options: [
+      "Firmware",
+      "Hardware",
+      "Middleware",
+      "Software"
+    ]
+  },
+     {
+    numb: 30,
+    question: "What is the purpose of Nero Start Smart? ",
+
+    answer: "Burn CD/DVD",
+    options: [
+      "Format HDD",
+      "Burn CD/DVD",
+      "Format Pendrive",
+      "Format CD/DVD"
+    ]
+  },
+     {
+    numb: 31,
+    question: "Which System is used by Bluetooth for broad casting?",
+
+    answer: "Radio waves",
+    options: [
+      "Satellite",
+      "Microwaves",
+      "Telephone lines",
+      "Radio waves"
+    ]
+  },
+     {
+    numb: 32,
+    question: "What is the process of deleting all the data on the hard drive? ",
+
+    answer: "Formatting",
+    options: [
+      "Delete",
+      "Erase",
+      "Formatting",
+      "Uninstall"
+    ]
+  },
+ {
+    numb: 33,
+    question: "Which port is used to connect monitor?",
+
+    answer: "VGA",
+    options: [
+      "PS2",
+      "USB",
+      "LAN",
+      "VGA"
+    ]
+  },    
+     {
+    numb: 34,
+    question: "Computer program are known as",
+
+    answer: "software",
+    options: [
+      "Operating System",
+      "Applications",
+      "Software",
+      "icon"
+    ]
+  },
+     {
+    numb: 35,
+    question: "Statical analysis packages have much in common with__ ",
+
+    answer: "Spreadsheet package",
+    options: [
+      "Spreadsheet package",
+      "Presentation package",
+      "Design packages",
+      "Paint package"
+    ]
+  },
+     {
+    numb: 36,
+    question: "Which software interface the major hardware components of the computer with OS",
+
+    answer: "BIOS",
+    options: [
+      "BIOS",
+      "DOS",
+      "POST",
+      "CMOS"
+    ]
+  },
+     {
+    numb: 37,
+    question: "Which software acts as a bridge between system software and hardware?",
+
+    answer: "Application",
+    options: [
+      "Management",
+      "Application",
+      "Utilty",
+      "Processing"
+    ]
+  },
+     {
+    numb: 38,
+    question: "Which virus infects the important files of application software?",
+
+    answer: "Macro Virus",
+    options: [
+      "Macro Virus",
+      "Trojan Virus",
+      "Worm Virus",
+      "Anti Virus"
+    ]
+  },
+     {
+    numb: 39,
+    question: "Which DOS command is used to delete a directory?",
+
+    answer: "RD",
+    options: [
+      "RD",
+      "Remove",
+      "DEL",
+      "DELETE"
+    ]
+  },
+     {
+    numb: 40,
+    question: "Which character is used to represent parent directory in Linux?",
+
+    answer: "..",
+    options: [
+      ".",
+      "..",
+      "~",
+      "*"
+    ]
+  },
+     {
+    numb: 41,
+    question: "Which character is used to redirect output in to an existing file in Linux? ",
+
+    answer: ">",
+    options: [
+      ">",
+      ">>",
+      "<",
+      "<<"
+    ]
+  },
+     {
+    numb: 42,
+    question: "How the directories under the root directory are called",
+
+    answer: "sub directories",
+    options: [
+      "dir",
+      "path",
+      "sub directories",
+      "tree"
+    ]
+  },
+     {
+    numb: 43,
+    question: "Which filename will matches the command. DIR????T.TxT in DOS?",
+
+    answer: "TEMPT.TxT",
+    options: [
+      "TIME.TXT",
+      "TEXT.TXT",
+      "TEMP.TXT",
+      "TEMPT.TxT"
+    ]
+  },
+     {
+    numb: 44,
+    question: "Which one of the following is the wildcard character?",
+
+    answer: "* and ?",
+    options: [
+      "* and /",
+      "* and ?",
+      "? and @",
+      "? and /"
+    ]
+  },
+     {
+    numb: 45,
+    question: "Which character is used to represent a range of values in Linux?",
+
+    answer: "[]",
+    options: [
+      "()",
+      "[]",
+      "{}",
+      "<>"
+    ]
+  },
+     {
+    numb: 46,
+    question: "Which type of device is a scanner? ",
+
+    answer: "Input device",
+    options: [
+      "Processing Device",
+      "Internal Device",
+      "Output Device",
+      "Input device"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
