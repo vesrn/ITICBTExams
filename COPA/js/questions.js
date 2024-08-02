@@ -402,7 +402,7 @@ let questions = [
     options: [
       "Operating System",
       "Applications",
-      "Software",
+      "software",
       "icon"
     ]
   },
@@ -544,7 +544,7 @@ let questions = [
 
     answer: "Guido van Rossum",
     options: [
-      "Guido Van Rossum",
+      "Guido van Rossum",
       "Zim Den",
       "Wick Van Rossum",
       "Niene Stom"
