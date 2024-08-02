@@ -540,14 +540,62 @@ let questions = [
   },
      {
     numb: 46,
-    question: "Which type of device is a scanner? ",
+    question: "Who developed by the Python language? ",
 
-    answer: "Input device",
+    answer: "Guido van Rossum",
     options: [
-      "Processing Device",
-      "Internal Device",
-      "Output Device",
-      "Input device"
+      "Guido Van Rossum",
+      "Zim Den",
+      "Wick Van Rossum",
+      "Niene Stom"
+    ]
+  },
+     {
+    numb: 47,
+    question: "Which multimedia application was developed using Python?",
+
+    answer: "Tim Player",
+    options: [
+      "Matplot lib",
+      "Pandas",
+      "Tryton",
+      "Tim Player"
+    ]
+  },
+     {
+    numb: 48,
+    question: "Whether Python Code compiled or interpreted?",
+
+    answer: "Python code is only interpreted",
+    options: [
+      "Python code is only interpreted",
+      "Python code is neither compiled nor interpreted",
+      "Python code is only compiled",
+      "Python code is both compiled and interpreted"
+    ]
+  },
+     {
+    numb: 49,
+    question: "Which of the following character is used to give single-line comment in Python? ",
+
+    answer: "#",
+    options: [
+      "//",
+      "#",
+      "!",
+      "/*"
+    ]
+  },
+     {
+    numb: 50,
+    question: "What is the data type of print(type(0xFF))? ",
+
+    answer: "int",
+    options: [
+      "number",
+      "hexint",
+      "hex",
+      "int"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
