@@ -2,59 +2,59 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the sequence, in which computer operates?",
+    question: "To be in a job or work is?",
    
-    answer: "Input, Process, Output",
+    answer: "Employee",
     options: [
-      "Input, Output, Process",
-      "Input, Process, Output",
-      "Process, Input, Output",
-      "Output, Process, Input"
+      "Employee",
+      "Skill",
+      "Knowledge",
+      "Aptitude"
     ]
   },
     {
     numb: 2,
-    question: "How does the parallel port transfer a byte?",
-    answer: "8 bits at a time",
+    question: "The ability to do is",
+    answer: "Skill",
     options: [
-      "Bit by bit",
-      "2 bits at a time",
-      "4 bits at a time", 
-      "8 bits at a time"
+      "Knowledge",
+      "Experience",
+      "Skill", 
+      "Job"
     ]
   },
     {
     numb: 3,
-    question: "What is an internal power supply units of CPU?",
+    question: "A person with a growth mindset is always willing to",
     
-    answer: "SMPS",
+    answer: "grow, challenge, learn",
     options: [
-      "CVT",
-      "UPS",
-      "SMPS",
-      "Stabilizer"
+      "relax",
+      "Keep quiet",
+      "grow, challenge, learn",
+      "become rich"
     ]
   },
     {
     numb: 4,
-    question: "What is the purpose of expansion slot in mother  board?",
-    answer: "To insert the additional peripherals",
+    question: "Jobs that jave become outdated in the past 5 years",
+    answer: "STD Booth",
     options: [
-      "To Insert the RAM",
-      "To insert the mouse",
-      "To insert the keyboard ",
-      "To insert the additional peripherals"
+      "STD Booth",
+      "ola",
+      "uber",
+      "swiggy"
     ]
   },
     {
     numb: 5,
-    question: "Which factor influences the severity of electrical shock?",
-    answer: "Duration of current passing",
+    question: "21st century workplace skills help you to get employed..",
+    answer: "even job market keep changing",
     options: [
-      "Very low DC voltage",
-      "Duration of current passing",
-      "Level of current in micro ampere",
-      "Person receives the shock"
+      "even job market keep changing",
+      "very difficult",
+      "only when market is growing",
+      "only with higher qualification"
     ]
   },
   {
