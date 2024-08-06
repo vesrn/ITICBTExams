@@ -81,50 +81,50 @@ let questions = [
   },
   {
     numb: 8,
-    question: "What is current? ",
+    question: "____ is a brief statement about purpose and principles of constitution ",
 
-    answer: "Flow of Electrons",
+    answer: "The preamble",
     options: [
-      "Flow of Neutrons",
-      "Flow of Electrons",
-      "Flow of Protons",
-      "Flow of Resistance"
+      "Syllabus",
+      "Module",
+      "The preamble",
+      "Unit"
     ]
   },
   {
     numb: 9,
-    question: "Which one is arm lift back pressure method?  ",
+    question: "Identify the improper term...",
 
-    answer: "Nelsons method",
+    answer: "green pollution",
     options: [
-      "Mouth to mouth method",
-      "Mouth to nose method",
-      "Nelsons method",
-      "Schafers method"
+      "green pollution",
+      "water pollution",
+      "air pollution",
+      "sound pollution"
     ]
   },
  {
     numb: 10,
-    question: "Desktop and personal computer is also called as__________ ",
+    question: "People from all religions or no religions are treated equally means.... ",
 
-    answer: "Micro Computer",
+    answer: "Secular Country",
     options: [
-      "Super Computer",
-      "Quantum Computer",
-      "Mainframe Computer",
-      "Micro Computer"
+      "democratic",
+      "religious",
+      "Non secular",
+      "Secular Country"
     ]
   },
      {
-    numb: 11,
-    question: "What is the full form of SSD?",
+    numb: 61,
+    question: "........... is major changes takes place in manufacturing",
 
-    answer: "Solid State Drive",
+    answer: "Industry Revolution",
     options: [
-      "Signal State Drive",
-      "Solid State Drive",
-      "Single Signal Drive",
-      "Solid Signal Drive"
+      "Green Revolution",
+      "Industry Revolution",
+      "Water revolution",
+      "Food revolution"
     ]
   },
      {
