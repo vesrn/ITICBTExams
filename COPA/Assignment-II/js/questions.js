@@ -116,7 +116,7 @@ let questions = [
     ]
   },
      {
-    numb: 61,
+    numb: 11,
     question: "........... is major changes takes place in manufacturing",
 
     answer: "Industry Revolution",
@@ -129,50 +129,50 @@ let questions = [
   },
      {
     numb: 12,
-    question: "Which one is an example for OS?",
+    question: "1st industrial revolution started in?",
 
-    answer: "Windows",
+    answer: "18th century",
     options: [
-      "Antivirus",
-      "Windows",
-      "MS Office",
-      "Macromedia"
+      "18th century",
+      "19th century",
+      "20th century",
+      "21st century"
     ]
   },
      {
-    numb: 13,
-    question: "Which control panel applet gives the information of computer?",
+    numb: 63,
+    question: "Hard Skill....",
 
-    answer: "System and Security",
+    answer: "60 WPM typing speed",
     options: [
-      "System and Security",
-      "Hardware and sound",
-      "Programs",
-      "Appearance and personalization"
+      "quick learner",
+      "time management",
+      "60 WPM typing speed",
+      "spoken English"
     ]
   },
      {
-    numb: 14,
-    question: "Which shortcut key is used to copy and paste a file folder? ",
+    numb: 64,
+    question: "To grow yourself you must............. ",
 
-    answer: "Ctrl+ C and Ctrl+ V",
+    answer: "know your self",
     options: [
-      "Ctrl+X and Ctrl+ V",
-      "Ctrl + A and Ctrl + V",
-      "Ctrl + Z and Ctrl + V",
-      "Ctrl+ C and Ctrl+ V"
+      "know your office",
+      "know your self",
+      "know your institute",
+      "know your country"
     ]
   },
      {
-    numb: 15,
-    question: "Which is the order of files and directories in Window Explore? ",
+    numb: 65,
+    question: "Time management....",
 
-    answer: "Hierarchically",
+    answer: "Complete your task on time",
     options: [
-      "Serially",
-      "Sequentially",
-      "Hierarchically",
-      "Alphabetically"
+      "Complete your task on time",
+      "managing time",
+      "hard skill",
+      "problem solving"
     ]
   },
 
@@ -298,306 +298,7 @@ let questions = [
       "Input device"
     ]
   },
-     {
-    numb: 26,
-    question: "Which type of copy is produced by printer? ",
-
-    answer: "Hard Copy",
-    options: [
-      "Hard Copy",
-      "Soft Copy",
-      "Scan Copy",
-      "Xerox Copy"
-    ]
-  },
-     {
-    numb: 27,
-    question: "What is the standard file extension of scan image?",
-
-    answer: ".jpg",
-    options: [
-      ".exe",
-      ".doc",
-      ".bak",
-      ".jpg"
-    ]
-  },
-     {
-    numb: 28,
-    question: "What is the capacity of typical DVD?",
-
-    answer: "4.7GB",
-    options: [
-      "40MB",
-      "50MB",
-      "60MB",
-      "4.7GB"
-    ]
-  },
-     {
-    numb: 29,
-    question: "What is BIOS?",
-
-    answer: "Firmware",
-    options: [
-      "Firmware",
-      "Hardware",
-      "Middleware",
-      "Software"
-    ]
-  },
-     {
-    numb: 30,
-    question: "What is the purpose of Nero Start Smart? ",
-
-    answer: "Burn CD/DVD",
-    options: [
-      "Format HDD",
-      "Burn CD/DVD",
-      "Format Pendrive",
-      "Format CD/DVD"
-    ]
-  },
-     {
-    numb: 31,
-    question: "Which System is used by Bluetooth for broad casting?",
-
-    answer: "Radio waves",
-    options: [
-      "Satellite",
-      "Microwaves",
-      "Telephone lines",
-      "Radio waves"
-    ]
-  },
-     {
-    numb: 32,
-    question: "What is the process of deleting all the data on the hard drive? ",
-
-    answer: "Formatting",
-    options: [
-      "Delete",
-      "Erase",
-      "Formatting",
-      "Uninstall"
-    ]
-  },
- {
-    numb: 33,
-    question: "Which port is used to connect monitor?",
-
-    answer: "VGA",
-    options: [
-      "PS2",
-      "USB",
-      "LAN",
-      "VGA"
-    ]
-  },    
-     {
-    numb: 34,
-    question: "Computer program are known as",
-
-    answer: "software",
-    options: [
-      "Operating System",
-      "Applications",
-      "software",
-      "icon"
-    ]
-  },
-     {
-    numb: 35,
-    question: "Statical analysis packages have much in common with__ ",
-
-    answer: "Spreadsheet package",
-    options: [
-      "Spreadsheet package",
-      "Presentation package",
-      "Design packages",
-      "Paint package"
-    ]
-  },
-     {
-    numb: 36,
-    question: "Which software interface the major hardware components of the computer with OS",
-
-    answer: "BIOS",
-    options: [
-      "BIOS",
-      "DOS",
-      "POST",
-      "CMOS"
-    ]
-  },
-     {
-    numb: 37,
-    question: "Which software acts as a bridge between system software and hardware?",
-
-    answer: "Application",
-    options: [
-      "Management",
-      "Application",
-      "Utilty",
-      "Processing"
-    ]
-  },
-     {
-    numb: 38,
-    question: "Which virus infects the important files of application software?",
-
-    answer: "Macro Virus",
-    options: [
-      "Macro Virus",
-      "Trojan Virus",
-      "Worm Virus",
-      "Anti Virus"
-    ]
-  },
-     {
-    numb: 39,
-    question: "Which DOS command is used to delete a directory?",
-
-    answer: "RD",
-    options: [
-      "RD",
-      "Remove",
-      "DEL",
-      "DELETE"
-    ]
-  },
-     {
-    numb: 40,
-    question: "Which character is used to represent parent directory in Linux?",
-
-    answer: "..",
-    options: [
-      ".",
-      "..",
-      "~",
-      "*"
-    ]
-  },
-     {
-    numb: 41,
-    question: "Which character is used to redirect output in to an existing file in Linux? ",
-
-    answer: ">",
-    options: [
-      ">",
-      ">>",
-      "<",
-      "<<"
-    ]
-  },
-     {
-    numb: 42,
-    question: "How the directories under the root directory are called",
-
-    answer: "sub directories",
-    options: [
-      "dir",
-      "path",
-      "sub directories",
-      "tree"
-    ]
-  },
-     {
-    numb: 43,
-    question: "Which filename will matches the command. DIR????T.TxT in DOS?",
-
-    answer: "TEMPT.TxT",
-    options: [
-      "TIME.TXT",
-      "TEXT.TXT",
-      "TEMP.TXT",
-      "TEMPT.TxT"
-    ]
-  },
-     {
-    numb: 44,
-    question: "Which one of the following is the wildcard character?",
-
-    answer: "* and ?",
-    options: [
-      "* and /",
-      "* and ?",
-      "? and @",
-      "? and /"
-    ]
-  },
-     {
-    numb: 45,
-    question: "Which character is used to represent a range of values in Linux?",
-
-    answer: "[]",
-    options: [
-      "()",
-      "[]",
-      "{}",
-      "<>"
-    ]
-  },
-     {
-    numb: 46,
-    question: "Who developed by the Python language? ",
-
-    answer: "Guido van Rossum",
-    options: [
-      "Guido van Rossum",
-      "Zim Den",
-      "Wick Van Rossum",
-      "Niene Stom"
-    ]
-  },
-     {
-    numb: 47,
-    question: "Which multimedia application was developed using Python?",
-
-    answer: "Tim Player",
-    options: [
-      "Matplot lib",
-      "Pandas",
-      "Tryton",
-      "Tim Player"
-    ]
-  },
-     {
-    numb: 48,
-    question: "Whether Python Code compiled or interpreted?",
-
-    answer: "Python code is only interpreted",
-    options: [
-      "Python code is only interpreted",
-      "Python code is neither compiled nor interpreted",
-      "Python code is only compiled",
-      "Python code is both compiled and interpreted"
-    ]
-  },
-     {
-    numb: 49,
-    question: "Which of the following character is used to give single-line comment in Python? ",
-
-    answer: "#",
-    options: [
-      "//",
-      "#",
-      "!",
-      "/*"
-    ]
-  },
-     {
-    numb: 50,
-    question: "What is the data type of print(type(0xFF))? ",
-
-    answer: "int",
-    options: [
-      "number",
-      "hexint",
-      "hex",
-      "int"
-    ]
-  },
+    
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
