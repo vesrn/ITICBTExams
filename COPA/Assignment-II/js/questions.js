@@ -59,24 +59,24 @@ let questions = [
   },
   {
     numb: 6,
-    question: "What is the full form of ABC in first aid?",
-    answer: "Airway, Breathing, Circulation",
+    question: "Ethics means",
+    answer: "decide what is right and wrong for a human conduct",
     options: [
-      "Anyway, Breathing, Circulation ",
-      "Airway, Breathing, Circulation",
-      "Anyway, Blood, Circulation",
-      "Airway, Blood, Chest "
+      "decide what is right and wrong for a human conduct",
+      "name of a city",
+      "employability skills",
+      "not relavant to society "
     ]
   },
   {
     numb: 7,
-    question: "What is the full form of ALU? ",
-    answer: "Arithmetic Logic Unit",
+    question: "Values are...",
+    answer: "Motivates our attitude and action",
     options: [
-      "Allowed Logic Unit ",
-      "AScii Logic Unit",
-      "Arithmetic Logic Unit",
-      "Arithmetic Least Unit"
+      "not punctual",
+      "Motivates our attitude and action",
+      "very costly",
+      "all have same values"
     ]
   },
   {
