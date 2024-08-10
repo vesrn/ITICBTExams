@@ -264,7 +264,7 @@ let questions = [
     numb: 23,
     question: "What tab in MS Word you will use to access mail merge options?",
 
-    answer: "Mailing Tab",
+    answer: "Mailing tab",
     options: [
       "Insert Tab",
       "Reference tab",
