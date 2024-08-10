@@ -2,602 +2,303 @@
 let questions = [
     {
     numb: 1,
-    question: "What is the sequence, in which computer operates?",
+    question: "Which of the following is not open source software?",
    
-    answer: "Input, Process, Output",
+    answer: "Windows 10",
     options: [
-      "Input, Output, Process",
-      "Input, Process, Output",
-      "Process, Input, Output",
-      "Output, Process, Input"
+      "Open Office",
+      "Windows 10",
+      "Linux",
+      "Ubuntu"
     ]
   },
     {
     numb: 2,
-    question: "How does the parallel port transfer a byte?",
-    answer: "8 bits at a time",
+    question: "Identify the command which is used to remove files",
+    answer: "rm",
     options: [
-      "Bit by bit",
-      "2 bits at a time",
-      "4 bits at a time", 
-      "8 bits at a time"
+      "delete",
+      "rm",
+      "dm", 
+      "erase"
     ]
   },
     {
     numb: 3,
-    question: "What is an internal power supply units of CPU?",
+    question: "The first option of KDE desktop is in Linux___",
     
-    answer: "SMPS",
+    answer: "applications",
     options: [
-      "CVT",
-      "UPS",
-      "SMPS",
-      "Stabilizer"
+      "preference",
+      "applications",
+      "system",
+      "system setting"
     ]
   },
     {
     numb: 4,
-    question: "What is the purpose of expansion slot in mother  board?",
-    answer: "To insert the additional peripherals",
+    question: "OSS stands for",
+    answer: "Open Source Software",
     options: [
-      "To Insert the RAM",
-      "To insert the mouse",
-      "To insert the keyboard ",
-      "To insert the additional peripherals"
+      "Open System Service",
+      "Open Source Software",
+      "Open System Software",
+      "Open Synchronzed Software"
     ]
   },
     {
     numb: 5,
-    question: "Which factor influences the severity of electrical shock?",
-    answer: "Duration of current passing",
+    question: "A software, coding of which is available freely on internet and is open for user for further use is called_____",
+    answer: "Open Source Software",
     options: [
-      "Very low DC voltage",
-      "Duration of current passing",
-      "Level of current in micro ampere",
-      "Person receives the shock"
+      "unlicensed software",
+      "Open Source Software",
+      "Free Software",
+      "Community Software"
     ]
   },
   {
     numb: 6,
-    question: "What is the full form of ABC in first aid?",
-    answer: "Airway, Breathing, Circulation",
+    question: "FSF stands for?",
+    answer: "Free Software Foundation",
     options: [
-      "Anyway, Breathing, Circulation ",
-      "Airway, Breathing, Circulation",
-      "Anyway, Blood, Circulation",
-      "Airway, Blood, Chest "
+      "File Server First",
+      "Free Software File",
+      "Free Software Foundation",
+      "Free Software First"
     ]
   },
   {
     numb: 7,
-    question: "What is the full form of ALU? ",
-    answer: "Arithmetic Logic Unit",
+    question: "Which command is used to store the active document permanently?",
+    answer: "Save",
     options: [
-      "Allowed Logic Unit ",
-      "AScii Logic Unit",
-      "Arithmetic Logic Unit",
-      "Arithmetic Least Unit"
+      "Save",
+      "Send",
+      "Prepare",
+      "Save as"
     ]
   },
   {
     numb: 8,
-    question: "What is current? ",
+    question: "Which bat contains the current position of the cursor in MS Word ",
 
-    answer: "Flow of Electrons",
+    answer: "Status bar",
     options: [
-      "Flow of Neutrons",
-      "Flow of Electrons",
-      "Flow of Protons",
-      "Flow of Resistance"
+      "Layout",
+      "Title bar",
+      "Status bar",
+      "Horizontal ruler"
     ]
   },
   {
     numb: 9,
-    question: "Which one is arm lift back pressure method?  ",
+    question: "Which one of the following is text styling feature of MS Word?",
 
-    answer: "Nelsons method",
+    answer: "Word Art",
     options: [
-      "Mouth to mouth method",
-      "Mouth to nose method",
-      "Nelsons method",
-      "Schafers method"
+      "Word fill",
+      "Word Colour",
+      "Word Art",
+      "Word font"
     ]
   },
  {
     numb: 10,
-    question: "Desktop and personal computer is also called as__________ ",
+    question: "Which document view given an appearnce as in web browser?",
 
-    answer: "Micro Computer",
+    answer: "Web layout view",
     options: [
-      "Super Computer",
-      "Quantum Computer",
-      "Mainframe Computer",
-      "Micro Computer"
+      "Draft view",
+      "Outline view",
+      "Web layout view",
+      "Full screen reading"
     ]
   },
      {
     numb: 11,
-    question: "What is the full form of SSD?",
+    question: "What is the purpose of quick access toolbar?",
 
-    answer: "Solid State Drive",
+    answer: "To hold familiar and repeated function",
     options: [
-      "Signal State Drive",
-      "Solid State Drive",
-      "Single Signal Drive",
-      "Solid Signal Drive"
+      "To hold advance function",
+      "To hold special function",
+      "To hold basic function",
+      "To hold familiar and repeated function"
     ]
   },
      {
     numb: 12,
-    question: "Which one is an example for OS?",
+    question: "What is the purpose of gutter margin?",
 
-    answer: "Windows",
+    answer: "Margin that is added to binding side of page when printing",
     options: [
-      "Antivirus",
-      "Windows",
-      "MS Office",
-      "Macromedia"
+      "Margin that is added to the left margin when printing",
+      "Margin that is added to the right margin when printing ",
+      "Margin that is added to binding side of page when printing",
+      "Margin that is added to the outside of the page when printing"
     ]
   },
      {
     numb: 13,
-    question: "Which control panel applet gives the information of computer?",
+    question: "Which option is used for tab setting?",
 
-    answer: "System and Security",
+    answer: "Horizontal ruler",
     options: [
-      "System and Security",
-      "Hardware and sound",
-      "Programs",
-      "Appearance and personalization"
+      "Horizontal ruler",
+      "Status bar",
+      "Vertical ruler",
+      "Vertical scrollbar"
     ]
   },
      {
     numb: 14,
-    question: "Which shortcut key is used to copy and paste a file folder? ",
+    question: "What is the purpose of cover page?",
 
-    answer: "Ctrl+ C and Ctrl+ V",
+    answer: "Allows to fill title, author, date and other information",
     options: [
-      "Ctrl+X and Ctrl+ V",
-      "Ctrl + A and Ctrl + V",
-      "Ctrl + Z and Ctrl + V",
-      "Ctrl+ C and Ctrl+ V"
+      "Fills the list of people intent to mail",
+      "Allows to fill title, author, date and other information",
+      "To view the mailed list",
+      "Contains details of the documents"
     ]
   },
      {
     numb: 15,
-    question: "Which is the order of files and directories in Window Explore? ",
+    question: "Combining two or more cells to make one is called__",
 
-    answer: "Hierarchically",
+    answer: "merging",
     options: [
-      "Serially",
-      "Sequentially",
-      "Hierarchically",
-      "Alphabetically"
+      "combining",
+      "joining",
+      "merging",
+      "creating"
     ]
   },
 
      {
     numb: 16,
-    question: "Where does the pinned applications stayed in Windows OS? ",
+    question: "The ability to combine name and addresses with a standard document is called_____? ",
 
-    answer: "Taskbar",
+    answer: "mail merge",
     options: [
-      "Desktop",
-      "Notification Area",
-      "Start Button",
-      "Taskbar"
+      "document formatting",
+      "mail merge",
+      "database management",
+      "form letters"
     ]
   },
      {
     numb: 17,
-    question: "What is the extension of notepad file? ",
+    question: "Which shortcut key is use to center the selected text in MS Word?",
 
-    answer: ".txt",
+    answer: "Ctrl + E",
     options: [
-      ".fil",
-      ".dll",
-      ".doc",
-      ".txt"
+      "Ctrl + C",
+      "Ctrl + D",
+      "Ctrl + E",
+      "Ctrl + F"
     ]
   },
      {
     numb: 18,
-    question: "Name the tool in control panel which is used to adjust your computer setting with voice command? ",
+    question: "In Openoffice, Shift+Ctrl+N is use for_____. ",
 
-    answer: "Ease of access",
+    answer: "opens templates and documents dialog",
     options: [
-      "Ease of access",
-      "System and Security",
-      "Appearance and personalization",
-      "Hardware and sound"
+      "creates a new document",
+      "Opens a document",
+      "opens templates and documents dialog",
+      "exits application"
     ]
   },
      {
     numb: 19,
-    question: "Name the shortcut key used to open start menu? ",
+    question: "How can you insert a sound file in your word document? ",
 
-    answer: "Windows Logo",
+    answer: "From insert > object menu option",
     options: [
-      "Windows Logo",
-      "Ctrl",
-      "Shift",
-      "Alt"
+      "From insert > sound menu option",
+      "From insert > file menu option",
+      "From insert > blank menu",
+      "From insert > object menu option"
     ]
   },
      {
     numb: 20,
-    question: "Which type of device is a printer? ",
+    question: "Individual in a table are referred to as... ",
 
-    answer: "Output Device",
+    answer: "cells",
     options: [
-      "Input device",
-      "Output Device",
-      "Processing Device",
-      "Calcuating Device"
+      "boxes",
+      "cells",
+      "rows",
+      "columns"
     ]
   },
      {
     numb: 21,
-    question: "What is the function of operating system? ",
+    question: "How will you insert chart in MS Word?",
 
-    answer: "Process and memory management",
+    answer: "Insert —> Chart",
     options: [
-      "Word processing",
-      "Calculation",
-      "Process and memory management",
-      "Drawing Pictures"
+      "Insert —> Picture",
+      "Insert —» Clip Art",
+      "Insert —► Shapes",
+      "Insert —> Chart"
     ]
   },
      {
     numb: 22,
-    question: "Name the ICON in which deleted files and folder are found",
+    question: "How many ways to create a table in MSWor?",
 
-    answer: "Recycle Bin",
+    answer: "3Ways",
     options: [
-      "My Computer",
-      "Recycle Bin",
-      "Microsoft Edge",
-      "Google Chrome"
+      "1Ways",
+      "3Ways",
+      "2Ways",
+      "4Ways"
     ]
   },
      {
     numb: 23,
-    question: "Name the tool in control panel which we can change the system date?",
+    question: "What tab in MS Word you will use to access mail merge options?",
 
-    answer: "Date and Time",
+    answer: "Mailing Tab",
     options: [
-      "User Account",
-      "System",
-      "Date and Time",
-      "Fonts"
+      "Insert Tab",
+      "Reference tab",
+      "Home tab",
+      "Mailing tab"
     ]
 
          
   },
      {
     numb: 24,
-    question: "Name the shortcut key used for refresh windows desktop ",
+    question: "Which of the following is not a default document type for a mail merge?",
 
-    answer: "F5",
+    answer: "Envelopes",
     options: [
-      "F1",
-      "F3",
-      "F5",
-      "F7"
+      "Memos",
+      "Directory",
+      "Letters",
+      "Envelopes"
     ]
   },
      {
     numb: 25,
-    question: "Which type of device is a scanner? ",
+    question: "Which shortcut key is use to print document? ",
 
-    answer: "Input device",
+    answer: "Ctrl+P",
     options: [
-      "Processing Device",
-      "Internal Device",
-      "Output Device",
-      "Input device"
+      "Ctrl+C",
+      "Ctrl+X",
+      "Ctrl+A",
+      "Ctrl+P"
     ]
   },
-     {
-    numb: 26,
-    question: "Which type of copy is produced by printer? ",
-
-    answer: "Hard Copy",
-    options: [
-      "Hard Copy",
-      "Soft Copy",
-      "Scan Copy",
-      "Xerox Copy"
-    ]
-  },
-     {
-    numb: 27,
-    question: "What is the standard file extension of scan image?",
-
-    answer: ".jpg",
-    options: [
-      ".exe",
-      ".doc",
-      ".bak",
-      ".jpg"
-    ]
-  },
-     {
-    numb: 28,
-    question: "What is the capacity of typical DVD?",
-
-    answer: "4.7GB",
-    options: [
-      "40MB",
-      "50MB",
-      "60MB",
-      "4.7GB"
-    ]
-  },
-     {
-    numb: 29,
-    question: "What is BIOS?",
-
-    answer: "Firmware",
-    options: [
-      "Firmware",
-      "Hardware",
-      "Middleware",
-      "Software"
-    ]
-  },
-     {
-    numb: 30,
-    question: "What is the purpose of Nero Start Smart? ",
-
-    answer: "Burn CD/DVD",
-    options: [
-      "Format HDD",
-      "Burn CD/DVD",
-      "Format Pendrive",
-      "Format CD/DVD"
-    ]
-  },
-     {
-    numb: 31,
-    question: "Which System is used by Bluetooth for broad casting?",
-
-    answer: "Radio waves",
-    options: [
-      "Satellite",
-      "Microwaves",
-      "Telephone lines",
-      "Radio waves"
-    ]
-  },
-     {
-    numb: 32,
-    question: "What is the process of deleting all the data on the hard drive? ",
-
-    answer: "Formatting",
-    options: [
-      "Delete",
-      "Erase",
-      "Formatting",
-      "Uninstall"
-    ]
-  },
- {
-    numb: 33,
-    question: "Which port is used to connect monitor?",
-
-    answer: "VGA",
-    options: [
-      "PS2",
-      "USB",
-      "LAN",
-      "VGA"
-    ]
-  },    
-     {
-    numb: 34,
-    question: "Computer program are known as",
-
-    answer: "software",
-    options: [
-      "Operating System",
-      "Applications",
-      "software",
-      "icon"
-    ]
-  },
-     {
-    numb: 35,
-    question: "Statical analysis packages have much in common with__ ",
-
-    answer: "Spreadsheet package",
-    options: [
-      "Spreadsheet package",
-      "Presentation package",
-      "Design packages",
-      "Paint package"
-    ]
-  },
-     {
-    numb: 36,
-    question: "Which software interface the major hardware components of the computer with OS",
-
-    answer: "BIOS",
-    options: [
-      "BIOS",
-      "DOS",
-      "POST",
-      "CMOS"
-    ]
-  },
-     {
-    numb: 37,
-    question: "Which software acts as a bridge between system software and hardware?",
-
-    answer: "Application",
-    options: [
-      "Management",
-      "Application",
-      "Utilty",
-      "Processing"
-    ]
-  },
-     {
-    numb: 38,
-    question: "Which virus infects the important files of application software?",
-
-    answer: "Macro Virus",
-    options: [
-      "Macro Virus",
-      "Trojan Virus",
-      "Worm Virus",
-      "Anti Virus"
-    ]
-  },
-     {
-    numb: 39,
-    question: "Which DOS command is used to delete a directory?",
-
-    answer: "RD",
-    options: [
-      "RD",
-      "Remove",
-      "DEL",
-      "DELETE"
-    ]
-  },
-     {
-    numb: 40,
-    question: "Which character is used to represent parent directory in Linux?",
-
-    answer: "..",
-    options: [
-      ".",
-      "..",
-      "~",
-      "*"
-    ]
-  },
-     {
-    numb: 41,
-    question: "Which character is used to redirect output in to an existing file in Linux? ",
-
-    answer: ">",
-    options: [
-      ">",
-      ">>",
-      "<",
-      "<<"
-    ]
-  },
-     {
-    numb: 42,
-    question: "How the directories under the root directory are called",
-
-    answer: "sub directories",
-    options: [
-      "dir",
-      "path",
-      "sub directories",
-      "tree"
-    ]
-  },
-     {
-    numb: 43,
-    question: "Which filename will matches the command. DIR????T.TxT in DOS?",
-
-    answer: "TEMPT.TxT",
-    options: [
-      "TIME.TXT",
-      "TEXT.TXT",
-      "TEMP.TXT",
-      "TEMPT.TxT"
-    ]
-  },
-     {
-    numb: 44,
-    question: "Which one of the following is the wildcard character?",
-
-    answer: "* and ?",
-    options: [
-      "* and /",
-      "* and ?",
-      "? and @",
-      "? and /"
-    ]
-  },
-     {
-    numb: 45,
-    question: "Which character is used to represent a range of values in Linux?",
-
-    answer: "[]",
-    options: [
-      "()",
-      "[]",
-      "{}",
-      "<>"
-    ]
-  },
-     {
-    numb: 46,
-    question: "Who developed by the Python language? ",
-
-    answer: "Guido van Rossum",
-    options: [
-      "Guido van Rossum",
-      "Zim Den",
-      "Wick Van Rossum",
-      "Niene Stom"
-    ]
-  },
-     {
-    numb: 47,
-    question: "Which multimedia application was developed using Python?",
-
-    answer: "Tim Player",
-    options: [
-      "Matplot lib",
-      "Pandas",
-      "Tryton",
-      "Tim Player"
-    ]
-  },
-     {
-    numb: 48,
-    question: "Whether Python Code compiled or interpreted?",
-
-    answer: "Python code is only interpreted",
-    options: [
-      "Python code is only interpreted",
-      "Python code is neither compiled nor interpreted",
-      "Python code is only compiled",
-      "Python code is both compiled and interpreted"
-    ]
-  },
-     {
-    numb: 49,
-    question: "Which of the following character is used to give single-line comment in Python? ",
-
-    answer: "#",
-    options: [
-      "//",
-      "#",
-      "!",
-      "/*"
-    ]
-  },
-     {
-    numb: 50,
-    question: "What is the data type of print(type(0xFF))? ",
-
-    answer: "int",
-    options: [
-      "number",
-      "hexint",
-      "hex",
-      "int"
-    ]
-  },
+    
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
